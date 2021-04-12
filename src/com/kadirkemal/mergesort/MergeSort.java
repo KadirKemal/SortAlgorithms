@@ -52,7 +52,6 @@ public class MergeSort {
         return mergeSortedArrays(leftSorted, rightSorted);
     }
 
-    // Driver method
     public static void main(String args[])
     {
         int arr[] = {11,16,8,7,20,4,14};
