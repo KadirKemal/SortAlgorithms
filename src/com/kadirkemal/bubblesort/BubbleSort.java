@@ -63,7 +63,7 @@ public class BubbleSort {
 
     public static void main(String args[]) {
         BubbleSort bubbleSort = new BubbleSort();
-        int numbers[] = {19, 4, 46, 100, 8, 18, 88};
+        int numbers[] = {11, 16, 8, 7, 20, 4, 14};
 
         System.out.println("*** Bubble Sort Without Any Optimization ***");
         int arr[] = Arrays.copyOf(numbers, numbers.length);
